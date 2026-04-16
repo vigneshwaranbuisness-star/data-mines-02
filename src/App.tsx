@@ -5,7 +5,7 @@ import DashboardLayout from './components/layout/DashboardLayout';
 import UploadSection from './components/dashboard/UploadSection';
 import AnalysisResults from './components/dashboard/AnalysisResults';
 import WorkflowVisualization from './components/dashboard/WorkflowVisualization';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/Card';
 import { FileText, Clock, ChevronRight, Search, Menu, LogOut, Bell, ArrowLeft, Download, Bookmark, Share2, Lightbulb, Target, Compass, Upload, Cpu, LayoutDashboard } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';

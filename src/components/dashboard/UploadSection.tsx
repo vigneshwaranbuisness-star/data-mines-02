@@ -4,7 +4,7 @@ import { Upload, File, X, CheckCircle2, Loader2, AlertCircle, FileText } from 'l
 import { Button } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 import { Progress } from '@/components/ui/progress';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent } from '@/components/ui/Card';
 
 interface UploadSectionProps {
   onUploadComplete: (paper: any) => void;
